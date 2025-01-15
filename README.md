@@ -12,4 +12,4 @@ Persyaratan Sistem :
    
 3. Database
     MySQL Server untuk pengelolaan database.
-    Tools seperti MySQL Workbench atau phpMyAdmin untuk impor database.
+    Tools seperti MySQL Workbench untuk impor database.
